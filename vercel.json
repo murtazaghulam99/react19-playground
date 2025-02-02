@@ -1,0 +1,17 @@
+{
+    "rewrites": [
+      { "source": "/api/:path*", "destination": "http://3.87.134.119:8000/:path*" },
+      { "source": "/(.*)", "destination": "/" }
+    ],
+    "headers": [
+      {
+        "source": "/(.*).(html|js|css)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-store"
+          }
+        ]
+      }
+    ]
+  }
