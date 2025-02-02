@@ -94,7 +94,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Murtaza Ghulam
 - GitHub: [@murtazaghulam99](https://github.com/murtazaghulam99)
-- LinkedIn: [Murtaza Ghulam](https://www.linkedin.com/in/murtazaghula99)
+- LinkedIn: [Murtaza Ghulam](https://www.linkedin.com/in/murtazaghulam99)
 - Email: [murtazaghulam99@gmail.com](mailto:ghulammurtaza.munir@yahoo.com)
 
 ## 🙏 Acknowledgements
